@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reserva-de-sala-dsm", "reserva-de-sala-dsm\reserva-de-sala-dsm.csproj", "{F9C23B3F-D291-43F7-8CC5-ECFD7597EA95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9C23B3F-D291-43F7-8CC5-ECFD7597EA95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C23B3F-D291-43F7-8CC5-ECFD7597EA95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C23B3F-D291-43F7-8CC5-ECFD7597EA95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C23B3F-D291-43F7-8CC5-ECFD7597EA95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7559548B-3AF1-463D-8409-56C6A499AAE7}
+	EndGlobalSection
+EndGlobal
