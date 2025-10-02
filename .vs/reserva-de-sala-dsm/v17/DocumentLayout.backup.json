@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Felipe\\Tecnicas de programacao 2\\Aula 4\\reserva-de-sala-dsm\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C23B3F-D291-43F7-8CC5-ECFD7597EA95}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\felipe\\tecnicas de programacao 2\\aula 4\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C23B3F-D291-43F7-8CC5-ECFD7597EA95}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C23B3F-D291-43F7-8CC5-ECFD7597EA95}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\felipe\\tecnicas de programacao 2\\aula 4\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C23B3F-D291-43F7-8CC5-ECFD7597EA95}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C23B3F-D291-43F7-8CC5-ECFD7597EA95}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\felipe\\tecnicas de programacao 2\\aula 4\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C23B3F-D291-43F7-8CC5-ECFD7597EA95}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C23B3F-D291-43F7-8CC5-ECFD7597EA95}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\felipe\\tecnicas de programacao 2\\aula 4\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9C23B3F-D291-43F7-8CC5-ECFD7597EA95}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C23B3F-D291-43F7-8CC5-ECFD7597EA95}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\felipe\\tecnicas de programacao 2\\aula 4\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C23B3F-D291-43F7-8CC5-ECFD7597EA95}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +30,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Felipe\\Tecnicas de programacao 2\\Aula 4\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Felipe\\Tecnicas de programacao 2\\Aula 4\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T00:27:39.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Felipe\\Tecnicas de programacao 2\\Aula 4\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Felipe\\Tecnicas de programacao 2\\Aula 4\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T00:21:19.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Felipe\\Tecnicas de programacao 2\\Aula 4\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Felipe\\Tecnicas de programacao 2\\Aula 4\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Models\\Usuario.cs",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T23:57:51.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Felipe\\Tecnicas de programacao 2\\Aula 4\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\appsettings.json",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\appsettings.json",
+              "ToolTip": "C:\\Felipe\\Tecnicas de programacao 2\\Aula 4\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\appsettings.json",
+              "RelativeToolTip": "reserva-de-sala-dsm\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-01T23:31:32.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Felipe\\Tecnicas de programacao 2\\Aula 4\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Program.cs",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Program.cs",
+              "ToolTip": "C:\\Felipe\\Tecnicas de programacao 2\\Aula 4\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Program.cs",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T23:10:53.893Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
